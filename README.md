@@ -1,1 +1,3 @@
-# site
+# My personal blog
+
+Under construction.
